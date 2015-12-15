@@ -1,0 +1,26 @@
+{
+  "name": "autotester",
+  "version": "1.0.0",
+  "description": "Script to automatically run the appropriate tests when any file is changed.",
+  "main": "index.js",
+  "bin":{
+    "autotest": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethalbrains/autotester.git"
+  },
+  "keywords": [
+    "test",
+    "tdd"
+  ],
+  "author": "lethalbrains",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lethalbrains/autotester/issues"
+  },
+  "homepage": "https://github.com/lethalbrains/autotester#readme"
+}
